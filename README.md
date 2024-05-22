@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnteUjcic
-- 👀 I’m interested in AI, net,  
+- 👀 I’m interested in AI, .net,  
 - 🌱 I’m currently learning c#,python
 - 💞️ I’m looking to collaborate on pretty much anything
 - 📫 How to reach me yell my name at your monitor and i will know
